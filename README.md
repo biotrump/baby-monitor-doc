@@ -20,7 +20,10 @@ a+g : 6 axis fusion
 nordic 51822 : Arm cortex M0 + BTLE RF
 7. button cell battery
 8. led
-
+9. usb charger
+10. phone app to receive the alert or to monitor baby motion status
+11. remote management server from internet
+12. wakeup detection
 monitor console : a android 4.3 smart device + BTLE
 to monitor one or more sensors simultaneously.
 
