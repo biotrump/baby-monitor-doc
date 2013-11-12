@@ -24,6 +24,10 @@ nordic 51822 : Arm cortex M0 + BTLE RF
 10. phone app to receive the alert or to monitor baby motion status
 11. remote management server from internet
 12. wakeup detection
+13. postion change : lying to sitting up or standing up
+14. continuous big motion
+15. falling
+16. dangerous position : head down for 30s 
 monitor console : a android 4.3 smart device + BTLE
 to monitor one or more sensors simultaneously.
 
